@@ -1,0 +1,6 @@
+pdfplumber
+memory_profiler
+gensim
+nltk
+scikit-learn
+numpy
